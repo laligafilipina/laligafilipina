@@ -1,8 +1,9 @@
-sololeveling independent company in cybersecurity <br><hr>
+Sololeveling independent company in cybersecurity <br><hr>
 
 ### [ services ]
-> application security testings.
-> identify possible threats before bad guys finds it.
-> we write reports for you.
-> cybersecurity consultations.
->  
+<pre>
+> Application security testings.
+> Identify possible threats before bad guys finds it.
+> We write reports for you.
+> Cybersecurity consultations.
+</pre>
